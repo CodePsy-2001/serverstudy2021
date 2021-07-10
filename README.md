@@ -3,6 +3,7 @@
 
 <공부할 것들>
 1. 기준 운영체제: ubuntu 20.04
+   https://github.com/CodePsy-2001/serverstudy2021/blob/main/day1(Ubuntu).md
 
 2. python apnscheduler (ubuntu crone을 파이썬으로 구동)
 
