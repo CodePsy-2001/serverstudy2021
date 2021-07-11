@@ -3,7 +3,6 @@
 
 <공부할 것들>
 1. 기준 운영체제: ubuntu 20.04  
-   https://github.com/CodePsy-2001/serverstudy2021/blob/main/day1(Ubuntu).md
 
 2. python apnscheduler (ubuntu crone을 파이썬으로 구동)
 
@@ -11,7 +10,7 @@
     - 헤더(쿠키, cross origin 정책)
     - 바디(form data 등)
     - http 코드에 대한 이해
-    - 
+(산출물 1) https://github.com/CodePsy-2001/GetAndPost
 
 4. redis 기본만 찾아
 
