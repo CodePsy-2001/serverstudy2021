@@ -9,7 +9,7 @@
 3. http 통신에 대한 이해
     - 헤더(쿠키, cross origin 정책)
     - 바디(form data 등)
-    - http 코드에 대한 이해
+    - http 코드에 대한 이해  
 (산출물 1) https://github.com/CodePsy-2001/GetAndPost
 
 4. redis 기본만 찾아
